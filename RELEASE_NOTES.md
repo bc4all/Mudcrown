@@ -1,5 +1,10 @@
 # Release notes
 
+## 0.0.4, 27 September 2026
+
+- The game has its own address: [mudcrown.com](https://mudcrown.com). The old address still works
+  and takes you there.
+
 ## 0.0.3, 27 September 2026
 
 - A new look: a floodlit pitch at night, the stands full of fans, scoreboard panels and pixel

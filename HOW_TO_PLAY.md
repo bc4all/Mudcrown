@@ -55,7 +55,7 @@ score; **Menu** goes back to the title screen. The tabs at the bottom are the cl
 | Tab | What is there |
 | --- | --- |
 | **Desk** | Your office: the date, your place in the league, the next match and the **Continue** button that plays it, the latest news (a red number counts what you have not read), and the doors to the four sections. When your league is done: the final table and the season review. |
-| **Team** | **Squad**: your starting eleven, the five on the bench and the reserves. Choose a formation (4-4-2, 4-3-3, 4-5-1, 5-3-2, 3-5-2) or **Pick best XI**. To change the team, tap the ⇅ of one player and then another to swap them, or use a player's ⋯ key to move him to the eleven, the bench or the reserves, or give him the armband, the penalties or the free kicks. Every player has a coloured position chip (GK, DEF, MID, FWD); orange means he is playing out of position. Tap a name for the **player's page**: his eight skills, condition, spirit and why, this season and his career, and his contract, where you can offer him a new one or release him. |
+| **Team** | **Squad**: your starting eleven, the five on the bench and the reserves. Choose a formation (4-4-2, 4-3-3, 4-5-1, 5-3-2, 3-5-2) or **Pick best XI**. To change the team, drag a player by his arrows onto another (in the list or on the pitch), or tap the arrows of one and then another; the clipboard key moves a player to the eleven, the bench or the reserves, or gives him the armband, the penalties or the free kicks (tap again to take it away). Tap a column's head to sort; the legend under the table explains each column. Every player has a position chip in his line's colour: GK, LB, CB, RB, LM, CM, RM, LW, ST, RW; orange means he is playing out of position, and his rating in that slot drops. Tap a name for the **player's page**: his eight skills, condition, spirit and why, this season and his career, and his contract, where you can offer him a new one or release him. |
 | **Comps** | **League**: the table of any group of any of the eight levels, your own first; green rows go up, red rows go down. **Fixtures**: every match of a round, and your club's whole season. **Seasons**: your manager score, your titles and every season you have finished. |
 | **Market** | Transfers: the market, scouting and contracts. |
 | **Club** | **News**: the season so far, match by match, and the summer's comings and goings. **Owner**: this season's target and how past seasons measured up. Then the money, the ground, the shop and the press. |
@@ -66,6 +66,9 @@ can see where the game is going.
 
 ## Players
 
+- A squad starts with 20 players, three of them goalkeepers. Each player has a position and a
+  side; out of position he loses about an eighth of his rating in another line, and a little on
+  the other side.
 - Eight skills, 1 to 99: goalkeeping (GKP), defending (DEF), passing (PAS), technique (TEC),
   finishing (FIN), aerial (AIR), pace (PAC) and endurance (END). The overall rating (OVR) weighs the
   skills that matter for the player's position.

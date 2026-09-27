@@ -6,7 +6,7 @@
 
 1. On the title screen, press **New career**. No account is needed: an offline career is saved
    on the device you play on.
-2. Type your manager's name, or press **Generate** for one. Names with bad words, or the names of
+2. Type your manager's name, or press **Generate** for one, and pick your face with the arrows. Names with bad words, or the names of
    real footballers, managers and clubs, are not accepted; the game says why as you type.
 3. Choose one of eight countries: England, Spain, Italy, Germany, France, the Netherlands,
    Portugal or Poland.
@@ -28,7 +28,8 @@ screen; the game asks once more before it is gone.
   a southern group, level 5 a group for every region, and levels 6, 7 and 8 two, four and eight
   local groups in every region (16 clubs each). Every club plays every other twice, once at home:
   **34 rounds** with 18 clubs, **30** with 16. Seasons run from August to May, with a winter break.
-- The top two levels are the big cities' clubs. In the top league, 1st and 2nd go to the
+- The top two levels are the big cities' clubs, under the cities' real names; no club carries the
+  name of a real club. In the top league, 1st and 2nd go to the
   Continental League and 3rd and 4th to the Continental Cup (coming in a later build).
 - A win is worth 3 points, a draw 1. Clubs level on points are split by goal difference, then
   goals scored.
@@ -39,15 +40,19 @@ screen; the game asks once more before it is gone.
 ## The screens of a career
 
 The scoreboard at the top shows your club, the division, the season and round, and your manager
-score; **Menu** goes back to the title screen. The tabs at the bottom:
+score; **Menu** goes back to the title screen. The tabs at the bottom are the club's five rooms:
 
-| Tab | What it shows |
+| Tab | What is there |
 | --- | --- |
-| **Club** | The next match and the **Play round** button, the last result with its scorers, and your part of the table. When every round is played, the season stops there for now: promotion, relegation and the next season come in the next build. |
-| **Squad** | Your players by position: age, nationality, years left on the contract, and ability (the bar; the faint part is how far a young player may still grow). A dot marks the eleven who start. |
-| **Table** | The table of any group of any of the eight levels, your own first. Green rows go up, red rows go down. |
-| **Games** | Every match of a round, played or to come, and your club's whole season. |
-| **Seasons** | Your manager score, the titles you have won, and every season you have finished. |
+| **Desk** | Your office: the date, your place in the league, the next match and the **Continue** button that plays it, the latest news (a red number counts what you have not read), and the doors to the four sections. When your league is done, the season stops there for now: promotion, relegation and the next season come in the next build. |
+| **Team** | **Squad**: your players by position, with age, nationality, years left on the contract and ability (the bar; the faint part is how far a young player may still grow). A dot marks the eleven who start. |
+| **Comps** | **League**: the table of any group of any of the eight levels, your own first; green rows go up, red rows go down. **Fixtures**: every match of a round, and your club's whole season. **Seasons**: your manager score, your titles and every season you have finished. |
+| **Market** | Transfers: the market, scouting and contracts. |
+| **Club** | **News**: the season so far, match by match. Then the money, the ground, the shop, the owner and the press. |
+
+Tiles marked **SOON** are parts of the game still to be built: tactics, training, the medical
+room, the cups, the continental nights, transfers, the club's money and more. They are shown so you
+can see where the game is going.
 
 ## How a match is decided
 

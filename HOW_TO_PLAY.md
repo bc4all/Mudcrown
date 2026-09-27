@@ -13,9 +13,11 @@
 4. Tap the **region** you want to start in on the map of the country, then one of its eight
    numbered **local areas** (the buttons under the map work too). Your club starts in that area's
    league at the bottom, level 8.
-5. Name your **club** and choose its **colours** (a main colour, a second colour and a pattern), or
-   press **Generate** for either. The same name rules as for your name apply.
-6. Press **Start career**.
+5. Name your **club** and choose its **colours** (a main colour, a second colour, a pattern and, if
+   you like, a third colour for the trim), or press **Generate** for either. The same name rules as
+   for your name apply.
+6. Press **Start career**. The local paper, the owner and the fans have something to say before
+   you take over.
 
 Only one career is kept on a device. To start again, press **Delete** beside it on the title
 screen; the game asks once more before it is gone.
@@ -26,6 +28,8 @@ screen; the game asks once more before it is gone.
   a southern group, level 5 a group for every region, and levels 6, 7 and 8 two, four and eight
   local groups in every region (16 clubs each). Every club plays every other twice, once at home:
   **34 rounds** with 18 clubs, **30** with 16. Seasons run from August to May, with a winter break.
+- The top two levels are the big cities' clubs. In the top league, 1st and 2nd go to the
+  Continental League and 3rd and 4th to the Continental Cup (coming in a later build).
 - A win is worth 3 points, a draw 1. Clubs level on points are split by goal difference, then
   goals scored.
 - Every career starts at the bottom, level 8, in the area you chose. When your league is done, the

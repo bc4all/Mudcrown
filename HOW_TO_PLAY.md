@@ -6,21 +6,28 @@
 
 1. On the title screen, press **New career**. No account is needed: an offline career is saved
    on the device you play on.
-2. Type your manager's name.
+2. Type your manager's name, or press **Generate** for one. Names with bad words, or the names of
+   real footballers, managers and clubs, are not accepted; the game says why as you type.
 3. Choose one of eight countries: England, Spain, Italy, Germany, France, the Netherlands,
    Portugal or Poland.
-4. Choose a club. Every career starts in the **Fourth Division**, the bottom of the pyramid; the
-   weakest clubs are at the top of the list, for those who like it hard.
-5. Press **Start career**.
+4. Tap the **region** you want to start in on the map of the country (the region names under the
+   map work too).
+5. Name your **club**, or press **Generate** for a name. The same rules as for your name apply.
+   Your club starts in that region's bottom league.
+6. Press **Start career**.
+
+Only one career is kept on a device. To start again, press **Delete** beside it on the title
+screen; the game asks once more before it is gone.
 
 ## A season
 
-- Each country has four divisions of twelve clubs. Every club plays every other twice, once at
-  home: **22 rounds** a season.
+- Each country has seven levels. The top two are national, the third has a northern and a
+  southern group, and the four below have a group for every region. Every group has twelve clubs,
+  and every club plays every other twice, once at home: **22 rounds** a season.
 - A win is worth 3 points, a draw 1. Clubs level on points are split by goal difference, then
   goals scored.
-- At the end of the season the **top two go up** and the **bottom two go down**, between every
-  pair of divisions. Win promotion three times and you are in the First Division.
+- Every career starts at the bottom, level 7, in the region you chose. Promotion and relegation
+  between the levels are coming in the next build.
 
 ## The screens of a career
 
@@ -29,9 +36,9 @@ score; **Menu** goes back to the title screen. The tabs at the bottom:
 
 | Tab | What it shows |
 | --- | --- |
-| **Club** | The next match and the **Play round** button, the last result with its scorers, and your part of the table. When every round is played, **Start next season** closes the season. |
+| **Club** | The next match and the **Play round** button, the last result with its scorers, and your part of the table. When every round is played, the season stops there for now: promotion, relegation and the next season come in the next build. |
 | **Squad** | Your players by position: age, nationality, years left on the contract, and ability (the bar; the faint part is how far a young player may still grow). A dot marks the eleven who start. |
-| **Table** | The table of any of the four divisions. Green rows go up, red rows go down. |
+| **Table** | The table of any group of any of the seven levels, your own first. Green rows go up, red rows go down. |
 | **Games** | Every match of a round, played or to come, and your club's whole season. |
 | **Seasons** | Your manager score, the titles you have won, and every season you have finished. |
 

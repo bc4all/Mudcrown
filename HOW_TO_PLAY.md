@@ -10,10 +10,11 @@
    real footballers, managers and clubs, are not accepted; the game says why as you type.
 3. Choose one of eight countries: England, Spain, Italy, Germany, France, the Netherlands,
    Portugal or Poland.
-4. Tap the **region** you want to start in on the map of the country (the region names under the
-   map work too).
-5. Name your **club**, or press **Generate** for a name. The same rules as for your name apply.
-   Your club starts in that region's bottom league.
+4. Tap the **region** you want to start in on the map of the country, then one of its eight
+   numbered **local areas** (the buttons under the map work too). Your club starts in that area's
+   league at the bottom, level 8.
+5. Name your **club** and choose its **colours** (a main colour, a second colour and a pattern), or
+   press **Generate** for either. The same name rules as for your name apply.
 6. Press **Start career**.
 
 Only one career is kept on a device. To start again, press **Delete** beside it on the title
@@ -21,13 +22,15 @@ screen; the game asks once more before it is gone.
 
 ## A season
 
-- Each country has seven levels. The top two are national, the third has a northern and a
-  southern group, and the four below have a group for every region. Every group has twelve clubs,
-  and every club plays every other twice, once at home: **22 rounds** a season.
+- Each country has eight levels. The top three are national (18 clubs), level 4 has a northern and
+  a southern group, level 5 a group for every region, and levels 6, 7 and 8 two, four and eight
+  local groups in every region (16 clubs each). Every club plays every other twice, once at home:
+  **34 rounds** with 18 clubs, **30** with 16. Seasons run from August to May, with a winter break.
 - A win is worth 3 points, a draw 1. Clubs level on points are split by goal difference, then
   goals scored.
-- Every career starts at the bottom, level 7, in the region you chose. Promotion and relegation
-  between the levels are coming in the next build.
+- Every career starts at the bottom, level 8, in the area you chose. When your league is done, the
+  levels above play on until May. Promotion and relegation between the levels are coming in the
+  next build.
 
 ## The screens of a career
 
@@ -38,7 +41,7 @@ score; **Menu** goes back to the title screen. The tabs at the bottom:
 | --- | --- |
 | **Club** | The next match and the **Play round** button, the last result with its scorers, and your part of the table. When every round is played, the season stops there for now: promotion, relegation and the next season come in the next build. |
 | **Squad** | Your players by position: age, nationality, years left on the contract, and ability (the bar; the faint part is how far a young player may still grow). A dot marks the eleven who start. |
-| **Table** | The table of any group of any of the seven levels, your own first. Green rows go up, red rows go down. |
+| **Table** | The table of any group of any of the eight levels, your own first. Green rows go up, red rows go down. |
 | **Games** | Every match of a round, played or to come, and your club's whole season. |
 | **Seasons** | Your manager score, the titles you have won, and every season you have finished. |
 

@@ -55,7 +55,7 @@ score; **Menu** goes back to the title screen. The tabs at the bottom are the cl
 | Tab | What is there |
 | --- | --- |
 | **Desk** | Your office: the date, your place in the league, the next match and the **Continue** button that plays it, the latest news (a red number counts what you have not read), and the doors to the four sections. When your league is done: the final table and the season review. |
-| **Team** | **Squad**: your players by position, with age, nationality, years left on the contract and ability (the bar; the faint part is how far a young player may still grow). A dot marks the eleven who start. |
+| **Team** | **Squad**: your starting eleven, the five on the bench and the reserves. Choose a formation (4-4-2, 4-3-3, 4-5-1, 5-3-2, 3-5-2) or **Pick best XI**. To change the team, tap the ⇅ of one player and then another to swap them, or use a player's ⋯ key to move him to the eleven, the bench or the reserves, or give him the armband, the penalties or the free kicks. Every player has a coloured position chip (GK, DEF, MID, FWD); orange means he is playing out of position. Tap a name for the **player's page**: his eight skills, condition, spirit and why, this season and his career, and his contract, where you can offer him a new one or release him. |
 | **Comps** | **League**: the table of any group of any of the eight levels, your own first; green rows go up, red rows go down. **Fixtures**: every match of a round, and your club's whole season. **Seasons**: your manager score, your titles and every season you have finished. |
 | **Market** | Transfers: the market, scouting and contracts. |
 | **Club** | **News**: the season so far, match by match, and the summer's comings and goings. **Owner**: this season's target and how past seasons measured up. Then the money, the ground, the shop and the press. |
@@ -64,12 +64,24 @@ Tiles marked **SOON** are parts of the game still to be built: tactics, training
 room, the cups, the continental nights, transfers, the club's money and more. They are shown so you
 can see where the game is going.
 
+## Players
+
+- Eight skills, 1 to 99: goalkeeping (GKP), defending (DEF), passing (PAS), technique (TEC),
+  finishing (FIN), aerial (AIR), pace (PAC) and endurance (END). The overall rating (OVR) weighs the
+  skills that matter for the player's position.
+- **Condition** drops with every match (less for players with endurance) and comes back with rest;
+  a tired player plays below himself. **Spirit** rises and falls with playing time against what his
+  contract status promised, a contract about to end, results and the armband.
+- **Contracts**: wages come out of the club's balance every week and home gates go in. Offer a new
+  contract with a status, a length and a wage; a player who says no will not talk again until after
+  the next match. Releasing a player pays off the rest of his contract.
+
 ## How a match is decided
 
-Your best eleven play in a 4-4-2: the goalkeeper, the four best defenders, the four best
-midfielders and the two best forwards. Their ability makes an attack, a midfield and a defence,
-and the goals follow from how those compare with the other side's, with a small edge for the
-home team. The better side usually wins; football being football, not always.
+Your eleven play in your formation. Each player's rating in his slot (lower out of position, lower
+when tired) makes an attack, a midfield and a defence, and the goals follow from how those compare
+with the other side's, with a small edge for the home team. The better side usually wins; football
+being football, not always.
 
 ## Your manager score
 

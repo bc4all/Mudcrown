@@ -33,9 +33,19 @@ screen; the game asks once more before it is gone.
   Continental League and 3rd and 4th to the Continental Cup (coming in a later build).
 - A win is worth 3 points, a draw 1. Clubs level on points are split by goal difference, then
   goals scored.
-- Every career starts at the bottom, level 8, in the area you chose. When your league is done, the
-  levels above play on until May. Promotion and relegation between the levels are coming in the
-  next build.
+- Every career starts at the bottom, level 8, in the area you chose. When your league is done you
+  see its final table and champion; the levels above play on until May (**Skip to season end** if
+  you do not want to wait).
+- At the end of the season the top of each group goes up and the bottom goes down, into the groups
+  that cover their area. The **season review** shows your finish, the points you earned, the
+  owner's letter and the champions of every level in your area; then **Start** the next season.
+- **The owner** sets a target each season from how your squad compares with the rest of your group:
+  promotion, the top half, or staying out of the bottom places (see it under Club, Owner). Miss it
+  and a warning letter follows.
+- **Over the summer** every player gets a year older: the young improve, those past thirty fade,
+  some from 33 retire, and a contract that runs out is renewed under 32 and ends from 32. At least
+  two youngsters come up from the youth team, so the squad keeps 18 to 22 players.
+- The other clubs change a little too: promoted clubs grow stronger, relegated ones weaker.
 
 ## The screens of a career
 
@@ -44,11 +54,11 @@ score; **Menu** goes back to the title screen. The tabs at the bottom are the cl
 
 | Tab | What is there |
 | --- | --- |
-| **Desk** | Your office: the date, your place in the league, the next match and the **Continue** button that plays it, the latest news (a red number counts what you have not read), and the doors to the four sections. When your league is done, the season stops there for now: promotion, relegation and the next season come in the next build. |
+| **Desk** | Your office: the date, your place in the league, the next match and the **Continue** button that plays it, the latest news (a red number counts what you have not read), and the doors to the four sections. When your league is done: the final table and the season review. |
 | **Team** | **Squad**: your players by position, with age, nationality, years left on the contract and ability (the bar; the faint part is how far a young player may still grow). A dot marks the eleven who start. |
 | **Comps** | **League**: the table of any group of any of the eight levels, your own first; green rows go up, red rows go down. **Fixtures**: every match of a round, and your club's whole season. **Seasons**: your manager score, your titles and every season you have finished. |
 | **Market** | Transfers: the market, scouting and contracts. |
-| **Club** | **News**: the season so far, match by match. Then the money, the ground, the shop, the owner and the press. |
+| **Club** | **News**: the season so far, match by match, and the summer's comings and goings. **Owner**: this season's target and how past seasons measured up. Then the money, the ground, the shop and the press. |
 
 Tiles marked **SOON** are parts of the game still to be built: tactics, training, the medical
 room, the cups, the continental nights, transfers, the club's money and more. They are shown so you

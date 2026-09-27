@@ -1,0 +1,36 @@
+name: Idea
+description: Something Mudcrown could do, or do better.
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The problem or the moment first, the solution second. Both are welcome.
+  - type: textarea
+    id: moment
+    attributes:
+      label: The moment
+      description: What were you doing, and what was missing or in the way?
+      placeholder: After a loss I wanted to see who scored, and the club screen only showed the score.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: What you would like to see.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Part of the game
+      options:
+        - Matches and results
+        - The squad and tactics
+        - Transfers
+        - Divisions, seasons and cups
+        - Online (leaderboard, transfer market)
+        - The title screen, saves and sign-in
+        - Something else

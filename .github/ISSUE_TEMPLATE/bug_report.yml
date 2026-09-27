@@ -1,0 +1,45 @@
+name: Bug report
+description: Something in Mudcrown went wrong.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. A few details make a bug much quicker to find.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, step by step, and what happened instead of what you expected.
+      placeholder: |
+        1. Played the last round of season 2
+        2. Pressed "End season"
+        3. The table still showed the old division; expected the new one
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where you were
+      description: The screen, and your country, division and season.
+      placeholder: Club screen, Poland, Third Division, season 3
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Career
+      options:
+        - Offline
+        - Online
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device
+      placeholder: Chrome on Windows 11 / the Android app on a Pixel 8
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag a picture in here if you have one.

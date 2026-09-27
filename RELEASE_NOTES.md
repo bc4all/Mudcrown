@@ -1,5 +1,13 @@
 # Release notes
 
+## 0.0.2, 27 September 2026
+
+- The title screen puts playing offline and signing in side by side; offline play never needs an
+  account. Sign in with Microsoft or GitHub (Google follows). Nothing is kept for an account yet:
+  online careers, the leaderboard and the transfer market come later.
+- A one-time notice says what the game keeps on your device.
+- A "Report a bug or an idea" button on the title screen opens this repository's issue forms.
+
 ## 0.0.1, 27 September 2026
 
 The first playable build, in the browser.

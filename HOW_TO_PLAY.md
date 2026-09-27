@@ -1,0 +1,57 @@
+# How to play Mudcrown
+
+*From park pitch to top flight.* A short guide to the game as it is today; it grows with the game.
+
+## Start a career
+
+1. On the title screen, press **New career**. No account is needed: an offline career is saved
+   on the device you play on.
+2. Type your manager's name.
+3. Choose one of eight countries: England, Spain, Italy, Germany, France, the Netherlands,
+   Portugal or Poland.
+4. Choose a club. Every career starts in the **Fourth Division**, the bottom of the pyramid; the
+   weakest clubs are at the top of the list, for those who like it hard.
+5. Press **Start career**.
+
+## A season
+
+- Each country has four divisions of twelve clubs. Every club plays every other twice, once at
+  home: **22 rounds** a season.
+- A win is worth 3 points, a draw 1. Clubs level on points are split by goal difference, then
+  goals scored.
+- At the end of the season the **top two go up** and the **bottom two go down**, between every
+  pair of divisions. Win promotion three times and you are in the First Division.
+
+## The screens of a career
+
+The scoreboard at the top shows your club, the division, the season and round, and your manager
+score; **Menu** goes back to the title screen. The tabs at the bottom:
+
+| Tab | What it shows |
+| --- | --- |
+| **Club** | The next match and the **Play round** button, the last result with its scorers, and your part of the table. When every round is played, **Start next season** closes the season. |
+| **Squad** | Your players by position: age, nationality, years left on the contract, and ability (the bar; the faint part is how far a young player may still grow). A dot marks the eleven who start. |
+| **Table** | The table of any of the four divisions. Green rows go up, red rows go down. |
+| **Games** | Every match of a round, played or to come, and your club's whole season. |
+| **Seasons** | Your manager score, the titles you have won, and every season you have finished. |
+
+## How a match is decided
+
+Your best eleven play in a 4-4-2: the goalkeeper, the four best defenders, the four best
+midfielders and the two best forwards. Their ability makes an attack, a midfield and a defence,
+and the goals follow from how those compare with the other side's, with a small edge for the
+home team. The better side usually wins; football being football, not always.
+
+## Your manager score
+
+Every season adds to it: points for where you finished, worth more in a higher division, a
+bonus for promotion and a bigger one for a title, and a penalty for relegation. It rewards the
+climb.
+
+## Coming next
+
+Choosing your eleven and the formation, a match report, a cup for every division, money and
+contracts, transfers, and later online careers with a shared leaderboard and transfer market.
+The [release notes](RELEASE_NOTES.md) say what has arrived.
+
+Something unclear or wrong here? [Open an issue](https://github.com/bc4all/Mudcrown/issues/new/choose).

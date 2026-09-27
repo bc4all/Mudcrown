@@ -3,8 +3,8 @@
 **From park pitch to top flight.** A short, simple football manager in the spirit of the 1990s
 classics. Free, no adverts, nothing to buy; playing offline needs no account.
 
-**Play it in the browser: [nice-island-0b6c8f503.1.azurestaticapps.net](https://nice-island-0b6c8f503.1.azurestaticapps.net)**
-(an early build; mudcrown.com is coming). An Android app follows.
+**Play it in the browser: [mudcrown.com](https://mudcrown.com)**
+(an early build). An Android app follows.
 
 Pick one of eight countries, take over a club at the bottom of the Fourth Division, and take it
 up to the First. A season is 22 rounds and plays in a sitting. Two clubs go up and two go down
@@ -18,11 +18,11 @@ everyone else's, and sell and buy players on a shared transfer market.
 
 | You want | Go to |
 | --- | --- |
-| To play | [The game in the browser](https://nice-island-0b6c8f503.1.azurestaticapps.net) |
+| To play | [The game in the browser](https://mudcrown.com) |
 | Questions players ask | [FAQ.md](FAQ.md) |
 | What changed, release by release | [RELEASE_NOTES.md](RELEASE_NOTES.md) |
 | Who made what | [CREDITS.md](CREDITS.md) |
-| What is kept about you, and the rules | The [Privacy](https://nice-island-0b6c8f503.1.azurestaticapps.net/privacy) and [Terms](https://nice-island-0b6c8f503.1.azurestaticapps.net/terms) pages, the same as in the game |
+| What is kept about you, and the rules | The [Privacy](https://mudcrown.com/privacy) and [Terms](https://mudcrown.com/terms) pages, the same as in the game |
 | To report a bug, offer an idea or ask | The [issue forms](https://github.com/bc4all/Mudcrown/issues/new/choose), described below |
 
 ## What this repository is for

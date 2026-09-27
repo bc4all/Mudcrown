@@ -1,5 +1,13 @@
 # Release notes
 
+## 0.0.3, 27 September 2026
+
+- A new look: a floodlit pitch at night, the stands full of fans, scoreboard panels and pixel
+  lettering, made to work on a phone first.
+- A career now has five tabs along the bottom: Club (the next match and the last result), Squad,
+  Table (any division), Games (round by round, and your whole season) and Seasons.
+- Every club shows its colours.
+
 ## 0.0.2, 27 September 2026
 
 - The title screen puts playing offline and signing in side by side; offline play never needs an

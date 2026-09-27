@@ -13,6 +13,12 @@ Every third-party asset in the game is listed here with its author, source and l
   [sakpix.itch.io](https://sakpix.itch.io/world-championship-heroes-football-stars-collection),
   a purchased licence for commercial use.
 
+## Word lists
+
+- **List of Dirty, Naughty, Obscene, and Otherwise Bad Words** (LDNOOBW), the lists names are
+  checked against, under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+  [github.com/LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
+
 ## Fonts
 
 - **Press Start 2P** by CodeMan38, under the SIL Open Font License 1.1.

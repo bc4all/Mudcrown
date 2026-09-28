@@ -50,7 +50,7 @@ screen; the game asks once more before it is gone.
 ## The screens of a career
 
 The scoreboard at the top shows your club, the division, the season and round, and your manager
-score; **Menu** goes back to the title screen. The tabs at the bottom are the club's five rooms:
+score; **Leave** goes back to the title screen (your career is saved). The tabs at the bottom are the club's five rooms:
 
 | Tab | What is there |
 | --- | --- |

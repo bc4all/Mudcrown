@@ -79,11 +79,36 @@ can see where the game is going.
   contract with a status, a length and a wage; a player who says no will not talk again until after
   the next match. Releasing a player pays off the rest of his contract.
 
+## Tactics
+
+Under **Team → Tactics** you keep three tactics, **A**, **B** and **C**, and choose the one the team
+starts with. Load a ready-made one (4-4-2 Classic, 4-3-3 Attack, 4-5-1 Counter, 5-3-2 Park the Bus,
+3-5-2 Wing Play, 4-4-2 Long Ball, 4-2-3-1 Possession) and change it as you like.
+
+- **The shape**: drag a player to another cell of the pitch, or tap him and then a cell. Where he
+  stands sets his role: a midfielder pulled back holds (DM), pushed up he attacks (AM); a full back
+  pushed up becomes a wing back; a forward out wide is a winger.
+- **Five instructions**: mentality (defensive, balanced, attacking), passing (short, mixed,
+  direct), pressing (low, medium, high), defensive line (deep, normal, high) and width (narrow,
+  normal, wide). Each suits some players more than others; the page tells you in plain words when
+  yours don't fit, and shows how the tactic plays in four bars.
+- **Styles meet**: a high press troubles a short-passing side but is bypassed by long balls; fast
+  forwards punish a high line; a deep, direct side catches out a team that comes forward.
+- **Familiarity**: a tactic gets stronger with every match played with it; each change costs a
+  little.
+- **Game plan**: for winning by 2+, winning by 1, drawing, losing by 1 and losing by 2+, choose to
+  keep going, tighten up, go for it, or switch to another of your tactics, from the minute you pick.
+  Tired players are changed from the hour, and a forward comes on when you are chasing the game.
+- **The other clubs have a style of their own** (possession, long ball, counter, pressing, park the
+  bus, wing play). The Desk shows the next opponent's style, shape and best player, with a hint on
+  how to beat them.
+
 ## How a match is decided
 
-Your eleven play in your formation. Each player's rating in his slot (lower out of position, lower
-when tired) makes an attack, a midfield and a defence, and the goals follow from how those compare
-with the other side's, with a small edge for the home team. The better side usually wins; football
+Your matches are played minute by minute: in every five minutes the midfield decides who gets the
+chances, attack against defence decides how good they are, your instructions and theirs tilt both,
+legs tire (more when pressing), and the game plan and the substitutions have their say. Each player
+counts in his role, lower out of position and when tired. The better side usually wins; football
 being football, not always.
 
 ## Your manager score
@@ -94,8 +119,9 @@ climb.
 
 ## Coming next
 
-Choosing your eleven and the formation, a match report, a cup for every division, money and
-contracts, transfers, and later online careers with a shared leaderboard and transfer market.
+A match screen to watch your games minute by minute and change tactics at half-time, the club's
+money, a cup for every division, transfers, and later online careers with a shared leaderboard and
+transfer market.
 The [release notes](RELEASE_NOTES.md) say what has arrived.
 
 Something unclear or wrong here? [Open an issue](https://github.com/bc4all/Mudcrown/issues/new/choose).

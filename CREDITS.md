@@ -12,6 +12,9 @@ Every third-party asset in the game is listed here with its author, source and l
 - **World Championship Heroes: Football Stars Collection** by SakPix: the characters on the menus.
   [sakpix.itch.io](https://sakpix.itch.io/world-championship-heroes-football-stars-collection),
   a purchased licence for commercial use.
+- **Urban Exteriors Megapack** by SakPix: the houses, trees and cars around the ground.
+  [sakpix.itch.io](https://sakpix.itch.io/urban-exteriors-megapack-top-down-pixel-art-city-builder-collection),
+  a purchased licence for commercial use.
 
 ## Word lists
 

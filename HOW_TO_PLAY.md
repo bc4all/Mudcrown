@@ -41,7 +41,8 @@ screen; the game asks once more before it is gone.
   owner's letter and the champions of every level in your area; then **Start** the next season.
 - **The owner** sets a target each season from how your squad compares with the rest of your group:
   promotion, the top half, or staying out of the bottom places (see it under Club, Owner). Miss it
-  and a warning letter follows.
+  and a warning letter follows (not in your first season: the owner gives you time to settle).
+  Three warning letters and you are sacked; two targets met in a row tear one up.
 - **Over the summer** every player gets a year older: the young improve, those past thirty fade,
   some from 33 retire, and a contract that runs out is renewed under 32 and ends from 32. At least
   two youngsters come up from the youth team, so the squad keeps 18 to 22 players.

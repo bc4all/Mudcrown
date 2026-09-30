@@ -39,6 +39,10 @@ screen; the game asks once more before it is gone.
 - At the end of the season the top of each group goes up and the bottom goes down, into the groups
   that cover their area. The **season review** shows your finish, the points you earned, the
   owner's letter and the champions of every level in your area; then **Start** the next season.
+- **Your ground** must meet each level's rules (places, seats, a roof, floodlights, the pitch,
+  toilets and first aid; see Club, Ground). A promoted club whose ground falls short gets its first
+  season up to build what is missing; if it still falls short at that season's end, the club goes
+  back down. The Desk tells you what is missing, what it costs and what is in the bank.
 - **The owner** sets a target each season from how your squad compares with the rest of your group:
   promotion, the top half, or staying out of the bottom places (see it under Club, Owner). Miss it
   and a warning letter follows (not in your first season: the owner gives you time to settle).

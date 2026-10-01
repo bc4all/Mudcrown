@@ -6,19 +6,21 @@ classics. Free, no adverts, nothing to buy; playing offline needs no account.
 **Play it in the browser: [mudcrown.com](https://mudcrown.com)**
 (an early build). An Android app follows.
 
-Pick one of eight countries, take over a club at the bottom of the Fourth Division, and take it
-up to the First. A season is 22 rounds and plays in a sitting. Two clubs go up and two go down
-from every division, every season. Every club, player, town and competition in the game is
-invented.
+Pick one of eight countries, take over a park club in a local league at level 8, and take it up
+eight levels to the top. Pick the team and the tactics, train the players, buy and sell, build the
+ground and keep the owner and the fans happy; every season the top clubs go up and the bottom ones
+go down. Every club, player, town and competition in the game is invented.
 
-Played alone. Later, signing in lets an online career stand on a shared leaderboard beside
-everyone else's, and sell and buy players on a shared transfer market.
+Played alone. Signing in keeps your careers in your account, so you can start on your phone and
+carry on in the browser on your laptop; the game plays offline and catches up when you are back
+online.
 
 ## Where to look
 
 | You want | Go to |
 | --- | --- |
 | To play | [The game in the browser](https://mudcrown.com) |
+| How to play, screen by screen, with tips | [HOW_TO_PLAY.md](HOW_TO_PLAY.md) |
 | Questions players ask | [FAQ.md](FAQ.md) |
 | What changed, release by release | [RELEASE_NOTES.md](RELEASE_NOTES.md) |
 | Who made what | [CREDITS.md](CREDITS.md) |
@@ -29,8 +31,9 @@ everyone else's, and sell and buy players on a shared transfer market.
 
 This is the public front door of the game: **bug reports, ideas and questions**. The game's
 source and its licensed art live in a private repository, so there is no code here: this page,
-the FAQ, the release notes, the credits and the issue forms.
+the guide and its pictures, the FAQ, the release notes, the credits and the issue forms.
 
+- **New to the game?** Read [How to play](HOW_TO_PLAY.md).
 - **Have a question?** Read the [FAQ](FAQ.md) first.
 - **Found a bug?** Open a [bug report](https://github.com/bc4all/Mudcrown/issues/new?template=bug_report.yml).
 - **Have an idea?** Open an [idea](https://github.com/bc4all/Mudcrown/issues/new?template=idea.yml).

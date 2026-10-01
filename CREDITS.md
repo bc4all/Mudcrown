@@ -4,6 +4,19 @@ Mudcrown is made by KB Info Krzysztof Bialowas, Poland.
 
 Every third-party asset in the game is listed here with its author, source and licence.
 
+## Music
+
+- **Energetic Action Rock Music Pack**: the title screen and the career.
+  Music by Composer Squad / [composersquad.com](https://www.composersquad.com),
+  under the Composer Squad game licence.
+
+## Sounds
+
+- **S024C Sports** by IndieSFX (Mark Sheeky): the whistles, kicks, saves and the crowd.
+  [indiesfx.co.uk](https://www.indiesfx.co.uk), under the IndieSFX Standard Licence.
+- **Interface Sounds** by Kenney: the keys. [kenney.nl](https://kenney.nl/assets/interface-sounds),
+  under CC0.
+
 ## Art
 
 - **Football Championship Megapack** by SakPix: the pitch, the cup, the floodlights and the crowd.
@@ -25,5 +38,6 @@ Every third-party asset in the game is listed here with its author, source and l
 ## Fonts
 
 - **Press Start 2P** by CodeMan38, under the SIL Open Font License 1.1.
+  [fonts.google.com](https://fonts.google.com/specimen/Press+Start+2P)
 
 Every club, player, town and competition in the game is invented. Country names are real.
